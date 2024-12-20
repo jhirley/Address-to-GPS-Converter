@@ -1,7 +1,7 @@
 
 # Address to GPS Converter
 
-This project provides a Streamlit app that converts addresses from an Excel file into GPS coordinates (latitude and longitude) using the Nominatim geocoding service. Users can upload a `.xls` or `.xlsx` file containing parts of an address (Street, City, State, Postal Code, Country), and the app will combine these parts, geocode the addresses, and return the latitude and longitude for each address.
+This project provides a Streamlit app that converts addresses from an Excel file into GPS coordinates (latitude and longitude) using the Nominatim geocoding service. You can upload a `.xls` or `.xlsx` file containing parts of an address (Street, City, State, Postal Code, Country), and the app will combine these parts, geocode the addresses, and return the latitude and longitude for each address.
 
 ## Features
 - Upload an Excel file containing address data.
@@ -37,4 +37,4 @@ This project provides a Streamlit app that converts addresses from an Excel file
     docker-compose up
     http://localhost:8501/
 
-With these instructions, users will be able to quickly set up and run the app both locally and using Docker.
+With these instructions, You will be able to quickly set up and run the app both locally and using Docker.
