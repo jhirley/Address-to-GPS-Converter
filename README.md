@@ -25,8 +25,8 @@ This project provides a Streamlit app that converts addresses from an Excel file
 1. Clone the repository:
 
    ```bash
-   git clone <repo_url>
-   cd <repo_name>
+   git clone https://github.com/jhirley/Address-to-GPS-Converter.git
+   cd Address-to-GPS-Converter
    pip install -r requirements.txt
    streamlit run app.py
    http://localhost:8501/
