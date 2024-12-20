@@ -1,0 +1,14 @@
+# This file lists all the Python libraries that this project depends on
+
+# streamlit and streamlit progress bar
+streamlit
+stqdm
+
+# Data manipulation libraries
+pandas
+
+# geopy for geocoding
+geopy
+
+# openpyxl for reading and writing Excel files
+openpyxl
